@@ -1,0 +1,5 @@
+package com.kpit.login.entity;
+
+public class User {
+
+}
